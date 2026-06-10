@@ -25,4 +25,3 @@ Currently wrapping up my CS degree while shipping real projects.
 
 ### Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dolev_Halachmi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dolev-halachmi-770408374)
-[![Email](https://img.shields.io/badge/Email-dolev.halachmi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dolev.halachmi@gmail.com)
