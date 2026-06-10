@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Dolev 👋
 
-<!--
-**DolevHalachmi/DolevHalachmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer · CS @ Ben-Gurion University (Expected 2027)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+I build things end-to-end — from REST APIs and database schemas to React frontends and cloud deployments.
+Currently wrapping up my CS degree while shipping real projects.
+
+---
+
+### What I'm working on
+- 🏥 **[Plaste Clinic Platform](https://dr-halachmi.com)** — a full production app (React + Spring Boot + PostgreSQL) serving a real medical clinic. Solved cross-origin iOS auth bugs, migrated email delivery, and deployed across Vercel + Render + Neon.
+- 📚 Coursework in algorithms, systems, and OS at BGU
+
+---
+
+### Stack
+`Java` `Python` `C++` `JavaScript` `SQL`  
+`Spring Boot` `React` `PostgreSQL` `Docker`  
+`Render` `Vercel` `Neon` `Git` `Linux`
+
+---
+
+### Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dolev_Halachmi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dolev-halachmi-770408374)
+[![Email](https://img.shields.io/badge/Email-dolev.halachmi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dolev.halachmi@gmail.com)
